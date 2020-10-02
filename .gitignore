@@ -124,3 +124,6 @@ dmypy.json
 
 # vs code files
 .vscode
+bin
+libs
+pyvenv.cfg
