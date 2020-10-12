@@ -127,3 +127,5 @@ dmypy.json
 bin
 libs
 pyvenv.cfg
+
+.idea
